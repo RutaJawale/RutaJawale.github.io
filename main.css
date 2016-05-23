@@ -1,3 +1,15 @@
 #navbar {
 	background-color: #333;
 }
+
+#navbar li {
+	display: inline-block;
+}
+
+#navbar li a {
+	color: white;
+}
+
+#navbar a:hover {
+	background-color: #111;
+}
