@@ -1,4 +1,7 @@
 #navbar {
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 	background-color: #333;
 }
 
@@ -6,8 +9,11 @@
 	display: inline-block;
 }
 
-#navbar li a {
+#navbar a {
 	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
 }
 
 #navbar a:hover {
