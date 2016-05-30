@@ -4,6 +4,7 @@ body {
 
 #navbar {
 	overflow: hidden;
+	background-color: #F5D7A1;
 }
 
 #navbar li {
@@ -21,17 +22,17 @@ body {
 	color: #BA6476;
 }
 
-.back {
-	height: 1000px;
-	background-color: #F5D7A1;
-}
-
 .first {
-	background-color: #F0A28E;
-	height: 400px;
+	background-color: #F5D7A1;
+	height: 500px;
 }
 
 .second {
-	background-color: #BA6476;
-	height: 300px;
+	background-color: #F0A28E#BA6476;
+	height: 400px;
+}
+
+.third {
+	background-color: #F0A28E;
+	height: 350px;
 }
