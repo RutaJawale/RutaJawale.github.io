@@ -13,6 +13,7 @@ body {
 
 #navbar a {
 	color: #F0A28E;
+	font-size: 16px;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
@@ -23,7 +24,8 @@ body {
 }
 
 .back {
-	height: 1000px;
+	height: 100%;
+	max-height: 100%;
 	background-color: #F5D7A1;
 }
 
