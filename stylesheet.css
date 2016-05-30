@@ -1,11 +1,12 @@
 body {
 	margin: 0;
-	background-color: #F5D7A1;
+	background-color: #F0A28E;
 }
 
 #navbar {
 	overflow: hidden;
-	background-color: #F0A28E;
+	background-color: #F5D7A1;
+	width: 100%;
 	position: fixed;
 }
 
@@ -21,7 +22,7 @@ body {
 }
 
 #navbar a:hover {
-	background-color: #BA6476;
+	background-color: #F0A28E;
 }
 
 .dividor {
