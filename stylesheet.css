@@ -1,13 +1,10 @@
 body {
 	margin: 0;
-	background-color: #F0A28E;
+	background-color: #F5D7A1;
 }
 
 #navbar {
 	overflow: hidden;
-	background-color: #F5D7A1;
-	width: 100%;
-	position: fixed;
 }
 
 #navbar li {
@@ -15,21 +12,22 @@ body {
 }
 
 #navbar a {
-	color: white;
+	color: #F0A28E;
 	text-align: center;
 	padding: 14px 16px;
 	text-decoration: none;
 }
 
 #navbar a:hover {
+	color: #BA6476;
+}
+
+.first {
 	background-color: #F0A28E;
-}
-
-.dividor {
-	background-color: #BA6476;
-	height: 200px;
-}
-
-#space {
 	height: 400px;
+}
+
+.second {
+	background-color: #BA6476;
+	height: 300px;
 }
