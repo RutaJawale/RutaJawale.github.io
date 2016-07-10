@@ -1,3 +1,3 @@
 $(document).ready(funtion() {
-	$('li').fadeOut();
+	$('a').fadeOut("slow");
 });
