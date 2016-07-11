@@ -1,3 +1,3 @@
-$(document).ready(funtion() {
+$(document).ready(function() {
 	$("p").fadeOut();
 });
