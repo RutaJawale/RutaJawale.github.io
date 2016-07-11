@@ -1,3 +1,3 @@
-$(document).ready(function(){
-	$("p").fadeOut();
-});
+// $(document).ready(function(){
+// 	$("p").fadeOut();
+// });

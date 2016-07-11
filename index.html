@@ -2,7 +2,12 @@
 <html>
 	<head>
 		<link type="text/css" rel="stylesheet" href="https://rutajawale.github.io/stylesheet.css"/>
-		<script type="text/javascript" src="https://rutajawale.github.io/script.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("p").fadeOut();
+		});
+		</script>
 		<title>Sample Site</title>
 		<title>Work in Progress</title>
 	</head>
@@ -15,10 +20,9 @@
 					<li><a href="https://rutajawale.github.io/">Contact</a></li>
 				</ul>
 			</div>
+			<p>These words will hopefully disappear.</p>
 		</div>
-		<div class="first">
-			<p>These words will hopefully appear.</p>
-		</div>
+		<div class="first"></div>
 		<div class="second"></div>
 	</body>
 </html>
