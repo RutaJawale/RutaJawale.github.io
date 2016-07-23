@@ -1,4 +1,4 @@
-
+/*
 body {
 	margin: 0;
 }
@@ -37,4 +37,11 @@ body {
 .second {
 	background-color: #BA6476;
 	height: 500px;
+}
+*/
+
+img {
+    position: relative;
+    left: 0;
+    top: 0;
 }
