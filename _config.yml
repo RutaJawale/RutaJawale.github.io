@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruta Jawale"
-  avatar           : "ruta.jpg"
+  avatar           : "images/ruta.jpg"
   bio              : "Ruta Jawale is a fourth year PhD student at UIUC working with Dakshita Khurana. During the past summer, she was an intern at NTT Research working with Justin Holmgren. She is currently looking into open problems in classical and quantum proof systems. Ruta received her Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley."
   location         : "Urbana-Champaign, Illinois"
   employer         :
