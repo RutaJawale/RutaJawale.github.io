@@ -10,6 +10,14 @@ redirect_from:
 
 Ruta Jawale is a fourth year PhD student at UIUC working with [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, she was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). She is currently looking into open problems in classical and quantum proof systems. Ruta received her Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley.
 
+Publications
+* [SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)<br>
+with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan
+* [SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)<br>
+with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang
+* [Lossy correlation intractability and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/911)<br>
+with Dakshita Khurana
+
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
