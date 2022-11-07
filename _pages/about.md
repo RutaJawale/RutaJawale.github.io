@@ -12,9 +12,9 @@ I am a fourth year PhD student at University of Illinois, Urbana-Champaign worki
 
 # Publications
 - <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue; text-decoration: underline;"><b>SNARGs for P from Sub-exponential DDH and QR</b></a>  
-_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_
+_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ <b>(Eurocrypt 2022)</b>
 - <a href="https://eprint.iacr.org/2020/980" style="color: SlateBlue; text-decoration: underline;"><b>SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE</b></a>  
-_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_
+_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ <b>(STOC 2021)</b>
 - <a href="https://eprint.iacr.org/2020/911" style="color: SlateBlue; text-decoration: underline;"><b>Lossy correlation intractability and PPAD hardness from sub-exponential LWE</b></a>  
 _with Dakshita Khurana_
 
