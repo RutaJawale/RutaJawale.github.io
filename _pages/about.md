@@ -11,7 +11,7 @@ redirect_from:
 Ruta Jawale is a fourth year PhD student at UIUC working with [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, she was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). She is currently looking into open problems in classical and quantum proof systems. Ruta received her Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley.
 
 # Publications
-- [SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)  
+- <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue; text-decoration: underline;text-decoration-style: dotted;">SNARGs for P from Sub-exponential DDH and QR</a>  
 _with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_
 - [SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)  
 _with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_
