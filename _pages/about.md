@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at University of Illinois, Urbana-Champaign working with <a href="https://www.dakshitakhurana.com/" style="color: Chocolate; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: Chocolate; text-decoration: underline;">Justin Holmgren</a>. I enjoy thinking about open problems in classical and quantum proof systems. Prior to joining UIUC, I received my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley.
+I am a fourth year PhD student at University of Illinois, Urbana-Champaign working with <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. I enjoy thinking about open problems in classical and quantum proof systems. Prior to joining UIUC, I received my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley.
 
 # Publications
 - <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue;"><b>SNARGs for P from Sub-exponential DDH and QR</b></a>  
