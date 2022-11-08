@@ -5,18 +5,20 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Multi-Server Covert Learning  
+### Multi-Server Covert Learning  
 
-- August 14, 2022  
-PPML Workshop, Crypto 2022
+- PPML Workshop, Crypto 2022  
+_August 14, 2022_
 
-## SNARGs for Bounded Depth Computations  
+### SNARGs for Bounded Depth Computations  
 
-- July 28, 2021  
-Indian Institute of Technology (IIT) Madras
-- June 16, 2021  
-Lattices: Algorithms, Complexity, and Cryptography Reunion at Simons Institute for the Theory of Computing
-- April 28, 2021  
-Max-Plank Institutes (MPI) and Ruhr-Universität Bochum (RUB)
-- October 29, 2020  
-Center for Encrypted Functionalities at University of California Los Angeles (UCLA)
+- Indian Institute of Technology (IIT) Madras  
+_July 28, 2021_
+- Lattices: Algorithms, Complexity, and Cryptography Reunion  
+Simons Institute for the Theory of Computing  
+_June 16, 2021_
+- Max-Plank Institutes (MPI) and Ruhr-Universität Bochum (RUB)  
+_April 28, 2021_
+- Center for Encrypted Functionalities  
+University of California Los Angeles (UCLA)  
+_October 29, 2020_
