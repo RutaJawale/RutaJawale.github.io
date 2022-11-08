@@ -4,7 +4,7 @@ collection: conferences_and_programs
 type: "Program"
 permalink: /conferences_and_programs/2020-spring
 venue: "Simons Institute for the Theory of Computing"
-date: 2020
+date: 2020-01-14
 location: "Zoom"
 ---
 

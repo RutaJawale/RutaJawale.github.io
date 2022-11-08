@@ -4,7 +4,7 @@ collection: teaching
 type: "CS 61A: The Structure and Interpretation of Computer Programs"
 permalink: /teaching/2016-spring
 venue: "UC Berkeley, Computer Science Department"
-date: "Spring 2016"
+date: 2016-01
 location: "Berkeley, CA"
 ---
 

@@ -4,6 +4,6 @@ collection: teaching
 type: "CS 161: Computer Security"
 permalink: /teaching/2019-summer
 venue: "UC Berkeley, Computer Science Department"
-date: "Summer 2019"
+date: 2019-06
 location: "Berkeley, CA"
 ---
