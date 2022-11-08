@@ -22,9 +22,9 @@ _June 13 – 17, 2022_
 - **Symposium on Theory of Computing (STOC) 2021**  
 Virtual  
 _June 21 - 25, 2021_
-- **Lattices: Algorithms, Complexity, and Cryptography Reunion**
+- **Lattices: Algorithms, Complexity, and Cryptography Reunion**  
 Simons Institute for the Theory of Computing  
-Virtual
+Virtual  
 _June 14 - 16, 2021_
 - **Lattices: Algorithms, Complexity, and Cryptography**  
 Simons Institute for the Theory of Computing  
