@@ -8,10 +8,12 @@ redirect_from:
   - /awards.html
 ---
 
-- <b>NSF Graduate Research Fellowships Program (GRFP) Honorable Mention</b>, National Science Foundation (2021)
-- <b>Outstanding Graduate Student Instructor Award</b>, University of California, Berkeley (2020)
-- <b>Two Sigma Scholarship Award</b>, Consortium for Mathematics and Its Applications (COMAP), Two Sigma (2017)
-- <b>MAA Award</b>, Mathematical Association of America (MAA) (2017)
-- <b>Outstanding Winner in Mathematical Contest in Modeling (MCM)</b>, Consortium for Mathematics and Its Applications (COMAP) (2017)
-- <b>The Leadership Award</b>, Cal Alumni Association (2015-2016)
-- <b>Valedictorian</b>, Leland High School (2015)
+# Awards
+
+- **NSF Graduate Research Fellowships Program (GRFP) Honorable Mention**, National Science Foundation (2021)
+- **Outstanding Graduate Student Instructor Award**, University of California, Berkeley (2020)
+- **Two Sigma Scholarship Award**, Consortium for Mathematics and Its Applications (COMAP), Two Sigma (2017)
+- **MAA Award**, Mathematical Association of America (MAA) (2017)
+- **Outstanding Winner in Mathematical Contest in Modeling (MCM)**, Consortium for Mathematics and Its Applications (COMAP) (2017)
+- **The Leadership Award**, Cal Alumni Association (2015-2016)
+- **Valedictorian**, Leland High School (2015)

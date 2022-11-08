@@ -16,11 +16,12 @@ I enjoy thinking about open problems in classical and quantum proof systems. Out
 <!-- ride horseback, play basketball, run, swim -->
 
 # Publications
-- <b>[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)</b>  
-_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ <b>(Eurocrypt 2022)</b>
-- <b>[SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)  
-_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ <b>(STOC 2021)</b>
-- <b>[Lossy correlation intractability and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/911)</b>  
+
+- **[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)**  
+_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ **(Eurocrypt 2022)**
+- **[SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)**  
+_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ **(STOC 2021)**
+- **[Lossy correlation intractability and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/911)**  
 _with Dakshita Khurana_
 
 <!-- - <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue;"><b>SNARGs for P from Sub-exponential DDH and QR</b></a>  
