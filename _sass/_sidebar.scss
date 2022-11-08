@@ -49,21 +49,21 @@
   }
 }
 
-.sidebar__right {
-  margin-bottom: 1em;
-
-  @include breakpoint($large) {
-    position: relative;
-    float: right;
-    width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
-    z-index: 10;
-  }
-
-  @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-  }
-}
+// .sidebar__right {
+//   margin-bottom: 1em;
+//
+//   @include breakpoint($large) {
+//     position: relative;
+//     float: right;
+//     width: $right-sidebar-width-narrow;
+//     margin-left: span(0.5 of 12);
+//     z-index: 10;
+//   }
+//
+//   @include breakpoint($x-large) {
+//     width: $right-sidebar-width;
+//   }
+// }
 
 /*
    Author profile and links
@@ -97,7 +97,8 @@
   display: table-cell;
   vertical-align: top;
   padding-left: 15px;
-  padding-right: 25px;
+  padding-right: 5px;
+  // padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
