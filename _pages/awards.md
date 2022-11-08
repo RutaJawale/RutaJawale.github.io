@@ -1,14 +1,9 @@
 ---
+layout: archive
+title: "Awards"
 permalink: /awards/
-title: "Honors & Awards"
-excerpt: "Honors & Awards"
-author_profile: false
-redirect_from:
-  - /awards/
-  - /awards.html
+author_profile: true
 ---
-
-# Awards
 
 - **NSF Graduate Research Fellowships Program (GRFP) Honorable Mention**, National Science Foundation (2021)
 - **Outstanding Graduate Student Instructor Award**, University of California, Berkeley (2020)
