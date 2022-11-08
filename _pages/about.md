@@ -8,17 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. Additionally, I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley.
+I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, I was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
+
+<!-- I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. Additionally, I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley). -->
 
 I enjoy thinking about open problems in classical and quantum proof systems. Outside of research, I weight lift, rock climb, draw, play piano, write, sing, read, and dance.
 
 # Publications
-- <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue;"><b>SNARGs for P from Sub-exponential DDH and QR</b></a>  
+- <b>[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)</b>  
+_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ <b>(Eurocrypt 2022)</b>
+- <b>[SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)  
+_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ <b>(STOC 2021)</b>
+- <b>[Lossy correlation intractability and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/911)</b>  
+_with Dakshita Khurana_
+
+<!-- - <a href="https://eprint.iacr.org/2022/353" style="color: SlateBlue;"><b>SNARGs for P from Sub-exponential DDH and QR</b></a>  
 _with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ <b>(Eurocrypt 2022)</b>
 - <a href="https://eprint.iacr.org/2020/980" style="color: SlateBlue;"><b>SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE</b></a>  
 _with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ <b>(STOC 2021)</b>
 - <a href="https://eprint.iacr.org/2020/911" style="color: SlateBlue;"><b>Lossy correlation intractability and PPAD hardness from sub-exponential LWE</b></a>  
-_with Dakshita Khurana_
+_with Dakshita Khurana_ -->
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
