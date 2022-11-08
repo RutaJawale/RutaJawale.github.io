@@ -3,6 +3,9 @@ permalink: /awards/
 title: "Honors & Awards"
 excerpt: "Honors & Awards"
 author_profile: false
+redirect_from:
+  - /awards/
+  - /awards.html
 ---
 
 - <b>NSF Graduate Research Fellowships Program (GRFP) Honorable Mention</b>, National Science Foundation (2021)
