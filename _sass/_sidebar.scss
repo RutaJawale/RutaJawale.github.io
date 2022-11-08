@@ -122,7 +122,16 @@
   font-size: $type-size-5;
 }
 
-.author__bio {
+.author__bio1 {
+  margin: 0;
+
+  @include breakpoint($large) {
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+}
+
+.author__bio2 {
   margin: 0;
 
   @include breakpoint($large) {
