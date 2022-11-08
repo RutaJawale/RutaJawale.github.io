@@ -5,12 +5,12 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Multi-Server Covert Learning  
+## Multi-Server Covert Learning  
 
 - PPML Workshop, Crypto 2022  
 _August 14, 2022_
 
-### SNARGs for Bounded Depth Computations  
+## SNARGs for Bounded Depth Computations  
 
 - Indian Institute of Technology (IIT) Madras  
 _July 28, 2021_
