@@ -13,7 +13,7 @@ I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC
 <!-- I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. Additionally, I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley). -->
 
 I enjoy thinking about open problems in classical and quantum proof systems. Outside of research, I weight lift, rock climb, draw, play piano, write fiction, sing, read novels, and dance.
-<!-- ride horseback, play basketball, run, swim -->
+<!-- ride horseback, play basketball, run, swim, tend plants, fold origami -->
 
 # Publications
 
