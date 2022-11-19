@@ -6,8 +6,8 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Conferences & Programs"
-    url: /conferences_and_programs/
+  # - title: "Conferences & Programs"
+  #   url: /conferences_and_programs/
 
   - title: "Teaching"
     url: /teaching/
