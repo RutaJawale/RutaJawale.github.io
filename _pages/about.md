@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, I was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
+I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, I was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science, Mathematics from University of California, Berkeley (UC Berkeley).
 
 <!-- I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. Additionally, I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley). -->
 
