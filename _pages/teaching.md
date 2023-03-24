@@ -7,6 +7,9 @@ author_profile: true
 
 ## Graduate Student Teaching Assistant  
 
+- **CS 374: Algorithms and Models of Computation**
+UIUC, Computer Science Department
+_Spring 2023_
 - **CS 498: Applied Cryptography**  
 UIUC, Computer Science Department  
 _Fall 2020_
