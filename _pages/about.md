@@ -8,17 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During the past summer, I was an intern at NTT Research working with [Justin Holmgren](https://justinholmgren.com/). I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science, Mathematics from University of California, Berkeley (UC Berkeley).
+I am a PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During Spring and Summer 2024, I was a research assistant/collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I took an internship at NTT Research working with [Justin Holmgren](https://justinholmgren.com/) during Summer 2022. 
 
-<!-- I am a fourth year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by <a href="https://www.dakshitakhurana.com/" style="color: SlateBlue; text-decoration: underline;">Dakshita Khurana</a>. During the past summer, I was an intern at NTT Research working with <a href="https://justinholmgren.com/" style="color: SlateBlue; text-decoration: underline;">Justin Holmgren</a>. Additionally, I have received my Master's degree in Computer Science from UIUC and my Bachelor's degree in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley). -->
+I was previously a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the "Lattices: Algorithms, Complexity, and Cryptography" and "The Quantum Wave in Computing" workshop at Simons Intitute during Spring 2020. I have received my Master's degree in Computer Science from UIUC, and my Bachelor's degree with majors in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
 
-I enjoy thinking about open problems in classical and quantum proof systems. Outside of research, I weight lift, rock climb, paint, play piano, write stories, sing, grow plants, read fantasy and science-fiction, and dance.
-<!-- ride horseback, play basketball, run, swim, fold origami -->
+
+I enjoy thinking about open problems in classical and quantum proof systems.
 
 # Publications
 
+- **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**
+_with Dakshita Khurana_
 - **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**
-_with Justin Holmgren_
+_with Justin Holmgren_ **(ITC 2023)**
 - **[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)**  
 _with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ **(Eurocrypt 2022)**
 - **[SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)**  

@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Computer Science, Mathematics at University of California, Berkeley (2019)
+* Ph.D in Computer Science at University of Illinois, Urbana-Champaign (expected: 2025)
 * M.S. in Computer Science at University of Illinois, Urbana-Champaign (2022)
-* Ph.D in Computer Science at University of Illinois, Urbana-Champaign (expected: 2018)
+* B.A. in Computer Science, Mathematics at University of California, Berkeley (2019)
 
 <!-- Work experience
 ======
