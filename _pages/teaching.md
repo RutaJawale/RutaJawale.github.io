@@ -7,11 +7,11 @@ author_profile: true
 
 ## Graduate Student Teaching Assistant  
 
-- **CS 498: Introduction to Quantum Computing**
-UIUC, Computer Science Department
+- **CS 498: Introduction to Quantum Computing**  
+UIUC, Computer Science Department  
 _Fall 2023_
-- **CS 374: Algorithms and Models of Computation**
-UIUC, Computer Science Department
+- **CS 374: Algorithms and Models of Computation**  
+UIUC, Computer Science Department  
 _Spring 2023_
 - **CS 498: Applied Cryptography**  
 UIUC, Computer Science Department  
