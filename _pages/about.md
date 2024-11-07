@@ -18,7 +18,7 @@ I enjoy thinking about open problems in classical and quantum proof systems.
 # Publications
 
 - **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**
-_with Dakshita Khurana_
+_with Dakshita Khurana_ **(Asiacrypt 2024)**
 - **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**
 _with Justin Holmgren_ **(ITC 2023)**
 - **[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)**  
