@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). During Spring and Summer 2024, I was a research assistant/collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I took an internship at NTT Research working with [Justin Holmgren](https://justinholmgren.com/) during Summer 2022. 
+I am a PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). I was a research intern at Fujitsu Research working with [Jiahui Liu](https://sites.google.com/view/jiahuiliu/) for Summer 2025. During Spring and Summer 2024, I was a research assistant/collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I took a research internship at NTT Research working with [Justin Holmgren](https://justinholmgren.com/) during Summer 2022. 
 
 I was previously a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the "Lattices: Algorithms, Complexity, and Cryptography" and "The Quantum Wave in Computing" workshop at Simons Intitute during Spring 2020. I have received my Master's degree in Computer Science from UIUC, and my Bachelor's degree with majors in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
 
