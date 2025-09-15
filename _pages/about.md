@@ -10,23 +10,26 @@ redirect_from:
 
 I am a final-year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). I was a research intern at Fujitsu Research working with [Jiahui Liu](https://sites.google.com/view/jiahuiliu/) for Summer 2025. During Spring and Summer 2024, I was a research assistant/collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I took a research internship at NTT Research working with [Justin Holmgren](https://justinholmgren.com/) during Summer 2022. 
 
-I was previously a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the "Lattices: Algorithms, Complexity, and Cryptography" and "The Quantum Wave in Computing" workshop at Simons Intitute during Spring 2020. I have received my Master's degree in Computer Science from UIUC, and my Bachelor's degree with majors in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
+I was previously a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the "Lattices: Algorithms, Complexity, and Cryptography" and "The Quantum Wave in Computing" workshop at Simons Institute during Spring 2020. I have received my Master's degree in Computer Science from UIUC, and my Bachelor's degree with majors in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
 
 
 I enjoy thinking about open problems in classical and quantum proof systems.
 
 # Publications
 
-- **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**
-_with Dakshita Khurana_ **(Asiacrypt 2024)**
-- **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**
-_with Justin Holmgren_ **(ITC 2023)**
-- **[SNARGs for P from Sub-exponential DDH and QR](https://eprint.iacr.org/2022/353)**  
-_with James Hulett, Dakshita Khurana, and Akshayaram Srinivasan_ **(Eurocrypt 2022)**
-- **[SNARGs for bounded depth computations and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/980)**  
-_with Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ **(STOC 2021)**
-- **[Lossy correlation intractability and PPAD hardness from sub-exponential LWE](https://eprint.iacr.org/2020/911)**  
-_with Dakshita Khurana_
+- **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**  
+_Ruta Jawale and Dakshita Khurana_ **(Asiacrypt 2024)**
+- **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**  
+_Justin Holmgren and Ruta Jawale*_ **(ITC 2023)**
+- **[SNARGs for P from Sub-Exponential DDH and QR](https://eprint.iacr.org/2022/353)**  
+_James Hulett, Ruta Jawale*, Dakshita Khurana, and Akshayaram Srinivasan_ **(Eurocrypt 2022)**
+- **[SNARGs for Bounded-Depth Computations and PPAD-Hardness from Sub-Exponential LWE](https://eprint.iacr.org/2020/980)**  
+_Ruta Jawale, Yael Tauman Kalai, Dakshita Khurana, and Rachel Zhang_ **(STOC 2021)**  
+- **[Lossy Correlation-Intractability and PPAD-Hardness from Sub-Exponential LWE](https://eprint.iacr.org/2020/911)**  
+_Ruta Jawale and Dakshita Khurana_
+
+*Authors are listed in alphabetical order; this is convention for theoretical computer science and math.
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
