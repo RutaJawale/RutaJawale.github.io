@@ -15,9 +15,13 @@ I was previously a [visiting graduate student](https://simons.berkeley.edu/peopl
 
 I enjoy thinking about open problems in classical and quantum proof systems.
 
-# Publications
+# Research
 *Authors are listed in alphabetical order; this is convention for theoretical computer science.
 
+- **[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155)**  
+_James Bartusek, Ruta Jawale*, Justin Raizes, and Kabir Tomer_
+- **[MPC in the Quantum Head (or: Superposition-Secure (Quantum) Zero-Knowledge)](https://arxiv.org/abs/2506.22961)**  
+_Andrea Coladangelo, Ruta Jawale*, Dakshita Khurana, Giulio Malavolta, Hendrik Waldner_
 - **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**  
 _Ruta Jawale and Dakshita Khurana_ **(Asiacrypt 2024)**
 - **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**  
