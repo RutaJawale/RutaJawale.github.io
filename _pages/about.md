@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a final-year PhD student at University of Illinois, Urbana-Champaign (UIUC) where I am advised by [Dakshita Khurana](https://www.dakshitakhurana.com/). I was a research intern at Fujitsu Research working with [Jiahui Liu](https://sites.google.com/view/jiahuiliu/) for Summer 2025. During Spring and Summer 2024, I was a research assistant/collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I took a research internship at NTT Research working with [Justin Holmgren](https://justinholmgren.com/) during Summer 2022. 
+I earned my Ph.D. and my M.S. from University of Illinois, Urbana-Champaign (UIUC) under the supervision of [Dakshita Khurana](https://www.dakshitakhurana.com/). 
 
-I was previously a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the "Lattices: Algorithms, Complexity, and Cryptography" and "The Quantum Wave in Computing" workshop at Simons Institute during Spring 2020. I have received my Master's degree in Computer Science from UIUC, and my Bachelor's degree with majors in Computer Science and Mathematics from University of California, Berkeley (UC Berkeley).
+During my Ph.D., I held several research positions. I was a research intern at Fujitsu Research in Summer 2025 working with [Jiahui Liu](https://sites.google.com/view/jiahuiliu/). In Spring and Summer 2024, I was a research assistant and collaborator at Bocconi University working with [Alon Rosen](https://www.alonrosen.net/). I was also a research intern at NTT Research in Summer 2022 working with [Justin Holmgren](https://justinholmgren.com/). I was a [visiting graduate student](https://simons.berkeley.edu/people/ruta-jawale) at the Simons Institute for the Theory of Computing during the Spring 2020 programs _Lattices: Algorithms, Complexity, and Cryptography_ and _The Quantum Wave in Computing_. 
 
-
-I enjoy thinking about open problems in classical and quantum proof systems.
+I also earned a B.A. from University of California, Berkeley (UC Berkeley) with majors in Computer Science and Mathematics. I was an [instructor of record](https://inst.eecs.berkeley.edu/~cs161/su19/) at UC Berkeley for the Summer 2019 offering of CS 161 : Computer Security while I was an undergraduate. This work was recognized with the [Outstanding Graduate Student Instructor Award](https://gsi.berkeley.edu/programs-services/award-programs/ogsi/ogsi-2020/) from UC Berkeley in 2020.
 
 # Research
 *Authors are listed in alphabetical order; this is convention for theoretical computer science.
@@ -21,7 +20,7 @@ I enjoy thinking about open problems in classical and quantum proof systems.
 - **[A New Approach to Arguments of Quantum Knowledge](https://eprint.iacr.org/2025/2155)**  
 _James Bartusek, Ruta Jawale*, Justin Raizes, and Kabir Tomer_ **(CRYPTO 2026, TQC 2026)**
 - **[MPC in the Quantum Head (or: Superposition-Secure (Quantum) Zero-Knowledge)](https://arxiv.org/abs/2506.22961)**  
-_Andrea Coladangelo, Ruta Jawale*, Dakshita Khurana, Giulio Malavolta, and Hendrik Waldner_
+_Andrea Coladangelo, Ruta Jawale*, Dakshita Khurana, Giulio Malavolta, and Hendrik Waldner_ **(Quantum (Journal) 2026)**
 - **[Unclonable Non-Interactive Zero-Knowledge](https://eprint.iacr.org/2023/1532)**  
 _Ruta Jawale and Dakshita Khurana_ **(Asiacrypt 2024)**
 - **[Locally Covert Learning](https://eprint.iacr.org/2023/392)**  
